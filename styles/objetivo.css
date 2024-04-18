@@ -1,0 +1,11 @@
+body#objetivo .sidebar li#ob{
+    background-color: blue;
+    margin-right: -10px;
+    border-radius: 0px 12px 12px 0px;
+}
+body#objetivo .sidebar li a#obj{
+    color: #fff;
+}
+body#objetivo .sidebar a#obj img{
+    filter: invert(100%);
+}
